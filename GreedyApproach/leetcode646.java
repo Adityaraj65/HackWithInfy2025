@@ -29,4 +29,3 @@ public class leetcode646 {
         System.out.println(result);
     }
 }
-
